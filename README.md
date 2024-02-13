@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/blockchain-certificates/cert-verifier.svg?branch=master)](https://travis-ci.org/blockchain-certificates/cert-verifier)
-[![PyPI version](https://badge.fury.io/py/cert-verifier.svg)](https://badge.fury.io/py/cert-verifier)
 
-# cert-verifier
+# An Effective Certificate Validation by using Chaotic Algorithm in Blockchain Functionality:
+
+### I designed a validation system for blockchains using Python, employing a chaotic algorithm to verify hash values and guarantee the integrity of stored certificates. This implementation significantly bolstered security measures, effectively mitigating risks associated with tampering and enhancing protection for sensitive data.
+
 Library for verifying blockchain certificates.
 
 ## Using the pypi package
@@ -45,7 +46,3 @@ This project uses tox to validate against several python environments.
     ```
     ./run_tests.sh
     ```
-
-## Contact
-
-Contact us at [the Blockcerts community forum](http://community.blockcerts.org/).
